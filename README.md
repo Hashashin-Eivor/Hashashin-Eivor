@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Iftekhar Zaman
-- 👀 I’m interested in learning advanced python.
 - 📫 How to reach me iftekhar.zaman@g.bracu.ac.bd
 
 <!---
