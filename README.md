@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Iftekhar Zaman
-- 👀 I’m interested in learning python
-- 🌱 I’m currently learning problem solving in python.
+- 👀 I’m interested in learning advanced python.
 - 📫 How to reach me iftekhar.zaman@g.bracu.ac.bd
 
 <!---
