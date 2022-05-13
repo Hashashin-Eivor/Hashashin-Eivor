@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iftekhar Zaman
-- 📫 How to reach me iftekhar.zaman@g.bracu.ac.bd
+- 📫 How to reach me iftekhar.zaman.3112@gmail.com
 
 <!---
 Hashashin-Eivor/Hashashin-Eivor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
